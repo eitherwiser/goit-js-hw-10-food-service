@@ -1,11 +1,11 @@
 {
   "name": "goit-js-hw-10-food-service-test",
   "version": "1.0.0",
-  "description": "https://eitherwiser.github.io/goit-js-hw-10-food-service/",
-  "main": "./src/index.js",
+  "description": "https://eitherwiser.github.io/goit-js-hw-10-food-service-test/",
+  "main": "index.js",
   "homepage": "https://github.com/eitherwiser/goit-js-hw-10-food-service-test",
   "scripts": {
-    "dev": "parcel src/*.html",
+    "dev": "parcel src/index.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service-test/"
   },
   "repository": {
