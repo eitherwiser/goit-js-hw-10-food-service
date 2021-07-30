@@ -1,22 +1,22 @@
 {
-  "name": "goit-js-hw-10-food-service-test",
+  "name": "goit-js-hw-10-food-service",
   "version": "1.0.0",
-  "description": "https://eitherwiser.github.io/goit-js-hw-10-food-service-test/",
+  "description": "https://eitherwiser.github.io/goit-js-hw-10-food-service/",
   "main": "index.js",
-  "homepage": "https://github.com/eitherwiser/goit-js-hw-10-food-service-test",
+  "homepage": "https://github.com/eitherwiser/goit-js-hw-10-food-service",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service-test/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eitherwiser/goit-js-hw-10-food-service-test.git"
+    "url": "git+https://github.com/eitherwiser/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
   "author": "Andrew Yatsutko <eitherwiser@gmal.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eitherwiser/goit-js-hw-10-food-service-test/issues"
+    "url": "https://github.com/eitherwiser/goit-js-hw-10-food-service/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
